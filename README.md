@@ -1,4 +1,3 @@
-# ATLAS
 
 Here is the LaTex formatted version of your README.md file:
 
