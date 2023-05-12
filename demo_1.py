@@ -3,6 +3,7 @@ import streamlit as st
 import time
 import threading
 import platform
+import playsound
 from playsound import playsound
 import datetime
 from datetime import datetime, timedelta
